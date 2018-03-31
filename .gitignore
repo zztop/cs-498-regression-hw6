@@ -1,0 +1,10 @@
+.venv/
+.Rproj.user/
+.RData
+.idea/
+*/**/*.png
+*/**/*.jpg
+*.png
+.Rhistory
+*.Rproj
+.DS_Store
