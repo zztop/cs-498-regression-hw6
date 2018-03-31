@@ -8,3 +8,4 @@
 .Rhistory
 *.Rproj
 .DS_Store
+.Rproj.user
